@@ -12,7 +12,7 @@ Static GitHub Pages site for Synapptech Labs legal documents.
 ├── terms/
 │   └── index.html
 └── assets/
-    ├── favicon.svg
+    ├── favicon.ico
     └── styles.css
 ```
 

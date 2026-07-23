@@ -116,12 +116,8 @@ a:hover {
 .brand-mark {
   width: 2rem;
   height: 2rem;
-  display: inline-grid;
-  place-items: center;
-  border-radius: 0.45rem;
-  background: var(--accent);
-  color: white;
-  font-weight: 800;
+  display: inline-block;
+  object-fit: contain;
 }
 
 .nav-links {
